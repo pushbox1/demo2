@@ -1,0 +1,17 @@
+[下载]
+新建一个文件夹：project
+打开git命令行
+cd c:/,,,/project
+git clone http://...............
+
+
+[上传]
+进入到clone下来的目录中
+git add xxx   //上传的文件名 
+git commit -am "xx"
+git push origin master  文件夹a/*  文件夹a/*.*  
+
+1、git add xxx //添加到缓存区
+2、git commit -am "xx" //确认上传的文件  xx为备注
+3、git push origin master //上传到主分支
+   
